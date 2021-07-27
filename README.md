@@ -1,6 +1,6 @@
 # RPG Web API
 
-Web API for a RPG game developed using .NET.
+Web API for a role-playing game developed using .NET.
 
 Udemy course: .NET 5 & .NET Core 3.1 Web API & Entity Framework Jumpstart
 
